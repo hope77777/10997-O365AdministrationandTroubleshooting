@@ -1,3 +1,5 @@
+# 10997-O365AdministrationandTroubleshooting
+
 Microsoft has published the lab instructions and allfiles (lab code) for course 10997 to GitHub here: https://github.com/MicrosoftLearning/10997-O365AdministrationandTroubleshooting
 
 What are we doing? - To support course 10997 Office 365 Administration and Troubleshooting, we will need to make frequent updates to the course content to keep it current with the Office 365 services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform. - We hope that this brings a sense of collaboration to the labs like we've never had before - when Office 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
